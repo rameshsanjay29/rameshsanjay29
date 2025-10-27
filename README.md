@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramesh sanjay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer & Data Scientistfrom India</h3>
 <img align ="right" alt="coding width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -7,11 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **web application for efficient vehicle service management and a reminder system.**
+- 🔭 I’m currently working on **Developing predictive models to optimize business performance and decision-making.**
 
-- 🌱 I’m currently learning **backend java Spring Boot**
+- 🌱 I’m currently learning **Advanced Machine Learning techniques (Deep Learning, NLP, and Time Series Forecasting)
 
-- 💬 Ask me about **ReactJs Frontend Developer Java frameworks**
+Data Engineering tools (Airflow, Spark, and Cloud Platforms)
+
+Frontend integration with data visualization (React, D3.js, and Plotly)**
+
+- 💬 Ask me about **The Data Science sector — from data wrangling and visualization to model deployment and MLOps
+
+How to turn raw data into actionable insights
+
+Combining frontend development with data storytelling**
 
 - 📫 How to reach me **rameshsanjay447@gmail.com**
 
